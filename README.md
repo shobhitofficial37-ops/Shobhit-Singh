@@ -7,3 +7,6 @@ concepts improved.
 ---
 ## v1 — Beginner Version
 **File:** `password_checker_beginner.py`
+🛡️ A Python log analyzer that detects brute-force login attempts from auth logs and generates a risk-flagged CSV report — built in 2 versions from beginner to advanced.
+## v1 - Beginner version
+**File:** 'Brute Force OS.py
